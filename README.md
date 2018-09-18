@@ -36,6 +36,7 @@ Some of my projects
 
 ## Visualization
 
-- [Movies](https://blog.singuerinc.com/static/code/labs/require-marionette-movies/index.html) - An app that use The Movie DB to fetch information about movies
 - [Images](https://blog.singuerinc.com/static/code/labs/require-marionette-flickr/index.html) - An app that use the Flickr API to search images
+- [Not random colors](https://not-random-colors.netlify.com/) - 16.777.215 colors visualized during a year
+- [Movies](https://blog.singuerinc.com/static/code/labs/require-marionette-movies/index.html) - An app that use The Movie DB to fetch information about movies
 - [Subway](https://singuerinc-labs.gitlab.io/subway/) - A metro/subway flow simulation
