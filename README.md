@@ -4,39 +4,39 @@ Some of my projects
 
 ## Main
 
-- [www](https://www.singuerinc.com/) - Past work / Experiments / etc
+- <a target="_blank" href="https://www.singuerinc.com/">www</a> - Past work / Experiments / etc
 
 ## Experiments
 
-- [Arstagram](https://artstagram.singuerinc.com/) - Unofficial/Unsolicited ArtStation client with an Instagram inspired feed
-- [bi](https://bi.singuerinc.com/) - Your Instagram™ feed, but bigger!
+- <a target="_blank" href="https://artstagram.singuerinc.com/">Arstagram</a> - Unofficial/Unsolicited ArtStation client with an Instagram inspired feed
+- <a target="_blank" href="https://bi.singuerinc.com/">bi</a> - Your Instagram™ feed, but bigger!
 
 ## Blogs
 
-- [blog](https://blog.singuerinc.com/) - My blog
-- [Bashtards](https://www.bashtards.com/) - A blog about themes, wallpapers, fonts, icons, and stuff for coders
+- <a target="_blank" href="https://blog.singuerinc.com/">blog</a> - My blog
+- <a target="_blank" href="https://www.bashtards.com/">Bashtards</a> - A blog about themes, wallpapers, fonts, icons, and stuff for coders
 
 ## Games
 
-- [Numbers](https://blog.singuerinc.com/static/code/labs/require-marionette-game/index.html) - A game where you have to spot similar images
-- [Color memory](https://github.com/singuerinc/pairs) - A memory game with colors [game](https://singuerinc-labs.gitlab.io/pairs/)
+- <a target="_blank" href="https://blog.singuerinc.com/static/code/labs/require-marionette-game/index.html">Numbers</a> - A game where you have to spot similar images
+- <a target="_blank" href="https://github.com/singuerinc/pairs">Color memory</a> - A memory game with colors <a target="_blank" href="https://singuerinc-labs.gitlab.io/pairs/">game</a>
 
 ## Libraries
 
-- [better-dni](https://github.com/singuerinc/better-dni) - The fastest Spanish DNI (NIE / NIF) validation - [demo](https://better-dni.netlify.com/)
-- [spain-phone](https://github.com/singuerinc/spain-phone) - Spanish phone number validation - [demo](https://spain-phone-demo.netlify.com)
+- <a target="_blank" href="https://github.com/singuerinc/better-dni">better-dni</a> - The fastest Spanish DNI (NIE / NIF) validation - <a target="_blank" href="https://better-dni.netlify.com/">demo</a>
+- <a target="_blank" href="https://github.com/singuerinc/spain-phone">spain-phone</a> - Spanish phone number validation - <a target="_blank" href="(https://spain-phone-demo.netlify.com">demo</a>
 
 ## Tools
 
-- [dial](https://home.singuerinc.com/) - A collection of links I often visit
-- [overlay](https://github.com/singuerinc/overlay) - A set of tools for devs and designers to measure, align and overlay on-screen graphics and layouts
-- [Swedish word of the day](https://swotd.singuerinc.com) - One word in Swedish every day
-- [Tomeito](https://tomeito-app.singuerinc.com/) - A tiny Pomodoro timer for Mac
-- [whatsapp-message-filter](https://github.com/singuerinc/whatsapp-message-filter) - Filter a chat history file from WhatsApp
+- <a target="_blank" href="https://home.singuerinc.com/">dial</a> - A collection of links I often visit
+- <a target="_blank" href="https://github.com/singuerinc/overlay">overlay</a> - A set of tools for devs and designers to measure, align and overlay on-screen graphics and layouts
+- <a target="_blank" href="https://swotd.singuerinc.com">Swedish word of the day</a> - One word in Swedish every day
+- <a target="_blank" href="https://tomeito-app.singuerinc.com/">Tomeito</a> - A tiny Pomodoro timer for Mac
+- <a target="_blank" href="https://github.com/singuerinc/whatsapp-message-filter">whatsapp-message-filter</a> - Filter a chat history file from WhatsApp
 
 ## Visualization
 
-- [Images](https://blog.singuerinc.com/static/code/labs/require-marionette-flickr/index.html) - An app that use the Flickr API to search images
-- [Not random colors](https://not-random-colors.netlify.com/) - 16.777.215 colors visualized during a year
-- [Movies](https://blog.singuerinc.com/static/code/labs/require-marionette-movies/index.html) - An app that use The Movie DB to fetch information about movies
-- [Subway](https://singuerinc-labs.gitlab.io/subway/) - A metro/subway flow simulation
+- <a target="_blank" href="https://blog.singuerinc.com/static/code/labs/require-marionette-flickr/index.html">Images</a> - An app that use the Flickr API to search images
+- <a target="_blank" href="https://not-random-colors.netlify.com/">Not random colors</a> - 16.777.215 colors visualized during a year
+- <a target="_blank" href="https://blog.singuerinc.com/static/code/labs/require-marionette-movies/index.html">Movies</a> - An app that use The Movie DB to fetch information about movies
+- <a target="_blank" href="https://singuerinc-labs.gitlab.io/subway/">Subway</a> - A metro/subway flow simulation
