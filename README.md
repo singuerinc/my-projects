@@ -10,6 +10,8 @@ Some of my projects
 
 - <a target="_blank" href="https://artstagram.singuerinc.com/">Arstagram</a> - Unofficial/Unsolicited ArtStation client with an Instagram inspired feed
 - <a target="_blank" href="https://bi.singuerinc.com/">bi</a> - Your Instagram™ feed, but bigger!
+- <a target="_blank" href="https://swotd.singuerinc.com">Swedish word of the day</a> - One word in Swedish every day
+- <a target="_blank" href="https://learning-words.netlify.com/">Learning words</a> - App to learn letters and numbers
 
 ## Blogs
 
@@ -30,7 +32,6 @@ Some of my projects
 
 - <a target="_blank" href="https://home.singuerinc.com/">dial</a> - A collection of links I often visit
 - <a target="_blank" href="https://github.com/singuerinc/overlay">overlay</a> - A set of tools for devs and designers to measure, align and overlay on-screen graphics and layouts
-- <a target="_blank" href="https://swotd.singuerinc.com">Swedish word of the day</a> - One word in Swedish every day
 - <a target="_blank" href="https://tomeito-app.singuerinc.com/">Tomeito</a> - A tiny Pomodoro timer for Mac
 - <a target="_blank" href="https://github.com/singuerinc/whatsapp-message-filter">whatsapp-message-filter</a> - Filter a chat history file from WhatsApp
 
