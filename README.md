@@ -26,6 +26,7 @@ Some of my projects
 ## Libraries
 
 - <a target="_blank" href="https://github.com/singuerinc/better-dni">better-dni</a> - The fastest Spanish DNI (NIE / NIF) validation - <a target="_blank" href="https://better-dni.netlify.com/">demo</a>
+- <a target="_blank" href="https://github.com/singuerinc/spanish-car-plate">spanish-car-plate</a> - Spanish Car Plate validation - <a target="_blank" href="https://spanish-car-plate.netlify.com/">demo</a>
 - <a target="_blank" href="https://github.com/singuerinc/spain-phone">spain-phone</a> - Spanish phone number validation - <a target="_blank" href="(https://spain-phone-demo.netlify.com">demo</a>
 
 ## Tools
