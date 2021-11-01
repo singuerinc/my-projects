@@ -41,4 +41,4 @@ Some of my projects
 - <a target="_blank" href="https://blog.singuerinc.com/static/code/labs/require-marionette-flickr/index.html">Images</a> - An app that use the Flickr API to search images
 - <a target="_blank" href="https://not-random-colors.netlify.com/">Not random colors</a> - 16.777.215 colors visualized during a year
 - <a target="_blank" href="https://blog.singuerinc.com/static/code/labs/require-marionette-movies/index.html">Movies</a> - An app that use The Movie DB to fetch information about movies
-- <a target="_blank" href="https://singuerinc-labs.gitlab.io/subway/">Subway</a> - A metro/subway flow simulation
+- <a target="_blank" href="https://subway-singuerinc.netlify.app/">Subway</a> - A metro/subway flow simulation
